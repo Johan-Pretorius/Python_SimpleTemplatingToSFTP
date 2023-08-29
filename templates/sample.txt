@@ -1,0 +1,7 @@
+Hello! This is a sample template.
+Here are the placeholders:
+$data1
+$data2
+$data3
+
+You can replace these placeholders with actual data values.
